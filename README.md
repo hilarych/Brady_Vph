@@ -3,7 +3,7 @@ Estimate velocities using normal modes of the DASV cable at channel 0~180.
 
 **Highlight files:**
 
-*estimate_velocities.ipynb: 
+-estimate_velocities.ipynb: 
 The notebook that explain the methods.
 
 *ccf/: 
