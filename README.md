@@ -1,8 +1,8 @@
-# Extracting phase velocity using normal mode analysis
+# Extracting phase velocity using normal-mode analysis
 
-The jupyter notebook **estimate_velocities.ipynb** shows an example to extract phase velocity for a wave trapped in the borehole using normal mode analysis (Chang & Nakata, 2022[^1]). The wave is observed on the DAS (Distributed Acoustic Sensing) install in a vertical borehole at the Brady geothermal field in Nevada. 
+The jupyter notebook **estimate_velocities.ipynb** shows an example to extract phase velocity for a wave trapped in the borehole using normal-mode analysis (Chang & Nakata, 2022[^1]). The wave is observed on the DAS (Distributed Acoustic Sensing) install in a vertical borehole at the Brady geothermal field in Nevada. 
 
-We pick the amplitude peaks of the normal modes in the frequency-space domain. Then, we calculate phase velocity using the following equation, assuming the wave trapped on a string with closed boundaries:
+We pick the amplitude peaks of the normal-modes in the frequency-space domain. Then, we calculate phase velocity using the following equation, assuming the wave trapped on a string with closed boundaries:
 
 ![phase velocity formula](c_f_L.png)
 
