@@ -1,6 +1,9 @@
 # Brady-estimate_velocities
 Estimate velocities using normal modes of the DASV cable at channel 0~180.
 
+
+![alt text](c_f_L.png)
+
 **Highlight files:**
 
 - estimate_velocities.ipynb: 
