@@ -6,7 +6,7 @@ We pick the amplitude peaks of the normal modes in the frequency-space domain. T
 
 ![phase velocity formula](c_f_L.png)
 
-**File descriptions:**
+**Content description:**
 
 - *estimate_velocities.ipynb*: 
 The notebook that explain the methods.
